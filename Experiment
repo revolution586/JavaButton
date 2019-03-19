@@ -1,0 +1,24 @@
+// I still need to understand the difference between all of the programming languages lol
+
+import javax.swing.JFrame;
+import java.awt.JFrame;
+
+public class JButton extends JFrame;
+
+new JButton = ex JButton;
+  setVisible (true);
+  setSize (200,250);
+  setLocationRelativeTo (null);
+  new Button = ex Button;
+  
+  if JButton = setLocationRelativeTo
+    (
+    print.setText ("Goodbye.")
+    )
+    
+    private void initUI ()) {
+    
+  })
+}
+
+#I'll look at this later, there's plenty of errors here
